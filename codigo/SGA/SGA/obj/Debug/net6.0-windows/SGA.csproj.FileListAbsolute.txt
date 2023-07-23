@@ -1,0 +1,38 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\bin\Debug\net6.0-windows\SGA.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\bin\Debug\net6.0-windows\SGA.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\bin\Debug\net6.0-windows\SGA.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\bin\Debug\net6.0-windows\SGA.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\bin\Debug\net6.0-windows\SGA.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\refint\SGA.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\ref\SGA.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.telaMenuPrincipal.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.telaLogin.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\SGA\SGA\obj\Debug\net6.0-windows\SGA.cadastrarUsuario.resources
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\bin\Debug\net6.0-windows\SGA.exe
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\bin\Debug\net6.0-windows\SGA.deps.json
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\bin\Debug\net6.0-windows\SGA.runtimeconfig.json
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\bin\Debug\net6.0-windows\SGA.dll
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\bin\Debug\net6.0-windows\SGA.pdb
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.csproj.AssemblyReference.cache
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.cadastrarUsuario.resources
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.telaMenuPrincipal.resources
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.telaLogin.resources
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.csproj.GenerateResource.cache
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.AssemblyInfoInputs.cache
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.AssemblyInfo.cs
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.dll
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\refint\SGA.dll
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.pdb
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\SGA.genruntimeconfig.cache
+C:\Users\vinic\Source\Repos\AED-PCO\tp-final-aed-easynotes\codigo\SGA\SGA\obj\Debug\net6.0-windows\ref\SGA.dll

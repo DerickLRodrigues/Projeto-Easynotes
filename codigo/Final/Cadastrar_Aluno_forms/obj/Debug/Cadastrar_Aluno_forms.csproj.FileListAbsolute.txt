@@ -1,0 +1,53 @@
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.AssemblyReference.cache
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.SuggestedBindingRedirects.cache
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_aluno.resources
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Properties.Resources.resources
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.GenerateResource.cache
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.CoreCompileInputs.cache
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.exe.config
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.exe
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.pdb
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.exe
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.pdb
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Turma.resources
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Tela_Principalcs.resources
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Vizualizar_Turmas.resources
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Turma_Separada.resources
+D:\Bárbara\FACULDADE BARBARA\C# - facul\TRABALHO AED\Cadastrar_Aluno_forms\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Lancar_Notas.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.exe.config
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.exe
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.pdb
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.AssemblyReference.cache
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_aluno.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Lancar_Notas.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Turma.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Turma_Separada.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Vizualizar_Turmas.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Properties.Resources.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.GenerateResource.cache
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.CoreCompileInputs.cache
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.exe
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.pdb
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_MatriculaAluno.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Cadastrar_Usuario.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Tela_Login.resources
+C:\Users\Barbara Xavier\Documents\GitHub\tp-final-aed-easynotes\codigo\Parte_Bárbara\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Menu_Principal.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.exe.config
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.exe
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\bin\Debug\Cadastrar_Aluno_forms.pdb
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.AssemblyReference.cache
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Cadastrar_Usuario.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_aluno.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Lancar_Notas.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_MatriculaAluno.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Turma.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Turma_Separada.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.frm_Vizualizar_Turmas.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Properties.Resources.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Tela_Login.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.Menu_Principal.resources
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.GenerateResource.cache
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.csproj.CoreCompileInputs.cache
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.exe
+C:\Users\oderi\OneDrive\Documents\GitHub\tp-final-aed-easynotes\codigo\Final\Cadastrar_Aluno_forms\obj\Debug\Cadastrar_Aluno_forms.pdb
